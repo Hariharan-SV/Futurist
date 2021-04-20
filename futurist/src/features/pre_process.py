@@ -18,15 +18,11 @@ def pre_process(data):
 
     data.rename(columns = {'selling_price':'Selling_Price(lakhs)','present_price':'Present_Price(lakhs)','owner':'Past_Owners', 'km_driven': 'Kms_Driven'},inplace = True)
     
-    for _ in range(8):
+    for _ in range(7):
         data = data[data['Present_Price(lakhs)'] < data['Present_Price(lakhs)'].quantile(0.99)]
         data = data[data['Selling_Price(lakhs)'] < data['Selling_Price(lakhs)'].quantile(0.99)]
         data = data[data['Kms_Driven'] < data['Kms_Driven'].quantile(0.99)]
-    
-    for val in ['seller_type:Trustmark Dealer','fuel:LPG']:
-        query = val.split(":")
-        data = data[data[query[0]] != query[1]]
-    
+        
     data['age'] = 2021 - data['year']
     data.drop('year',axis=1,inplace = True)
     data.drop_duplicates(subset=None, inplace=True)
@@ -57,7 +53,7 @@ def pre_process_data(data):
     unwanted_columns = ["Car_Name","Selling_Price(lakhs)"]
 
     data.rename(columns = {'Selling_Price':'Selling_Price(lakhs)','Present_Price':'Present_Price(lakhs)','Owner':'Past_Owners'},inplace = True)
-    for _ in range(3):
+    for _ in range(2):
         data = data[data['Present_Price(lakhs)'] < data['Present_Price(lakhs)'].quantile(0.99)]
         data = data[data['Selling_Price(lakhs)'] < data['Selling_Price(lakhs)'].quantile(0.99)]
         data = data[data['Kms_Driven'] < data['Kms_Driven'].quantile(0.99)]
