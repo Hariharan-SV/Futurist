@@ -1,15 +1,25 @@
 from futurist.models.MultipleRegression import MultipleRegression
 from futurist.src.model.futurist import Futurist
+from pathlib import Path
 
 import warnings
 warnings.filterwarnings('ignore')
 
-
-Model = Futurist("D:\Library\SEM VI\ML Lab\package\\futurist\data\interim\car_dataset.csv")
-Model.price_prediction(MultipleRegression())
+path = Path(__file__).parent / "data/interim/car_dataset.csv"
+Model = Futurist(path,deep_clean=True)
+Model.data_characterstics(["name","engine","max_power","torque","mileage"])
+Model.price_prediction(MultipleRegression(),print_report=True)
 
 """
-"D:\Library\SEM VI\ML Lab\package\\futurist\data\interim\car_dataset.csv"
-data = load_csv("D:\Library\SEM VI\ML Lab\package\\futurist\data\external\mini_car_dataset.csv")
-X,Y = pre_process_data(data)
+
+path = Path(__file__).parent / "data/interim/car_dataset.csv"
+Model = Futurist(path,deep_clean=True)
+Model.data_characterstics(["name","engine","max_power","torque","mileage"])
+Model.price_prediction(MultipleRegression(),print_report=True)
+
+path = Path(__file__).parent / "data/external/mini_car_dataset.csv"
+Model = Futurist(path)
+Model.data_characterstics(["Car_Name"])
+Model.price_prediction(MultipleRegression(),print_report=True)
+
 """
