@@ -5,7 +5,7 @@ Honda City 2017-2020 EXi,2006,158000,140000,Petrol,Individual,Manual,Third Owner
 Hyundai i20 Sportz Diesel,2010,225000,127000,Diesel,Individual,Manual,First Owner,23.0 kmpl,1396 CC,90 bhp,22.4 kgm at 1750-2750rpm,5.0,900000
 Maruti Swift VXI BSIII,2007,130000,120000,Petrol,Individual,Manual,First Owner,16.1 kmpl,1298 CC,88.2 bhp,"11.5@ 4,500(kgm@ rpm)",5.0,841000
 Hyundai Xcent 1.2 VTVT E Plus,2017,440000,45000,Petrol,Individual,Manual,First Owner,20.14 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,5.0,537000
-Maruti Wagon R LXI DUO BSIII,2007,96000,175000,LPG,Individual,Manual,First Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2007,96000,175000,CNG,Individual,Manual,First Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Maruti 800 DX BSII,2001,45000,5000,Petrol,Individual,Manual,Second Owner,16.1 kmpl,796 CC,37 bhp,59Nm@ 2500rpm,4.0,237902
 Toyota Etios VXD,2011,350000,90000,Diesel,Individual,Manual,First Owner,23.59 kmpl,1364 CC,67.1 bhp,170Nm@ 1800-2400rpm,5.0,643000
 Ford Figo Diesel Celebration Edition,2013,200000,169000,Diesel,Individual,Manual,First Owner,20.0 kmpl,1399 CC,68.1 bhp,160Nm@ 2000rpm,5.0,819000
@@ -89,7 +89,7 @@ Maruti Alto 800 LXI BSIV,2016,275000,38000,Petrol,Dealer,Manual,First Owner,24.7
 Maruti Swift VDI BSIV W ABS,2015,475000,78000,Diesel,Dealer,Manual,First Owner,,,,,,841000
 Hyundai i10 Era 1.1,2012,290000,28000,Petrol,Dealer,Manual,First Owner,19.81 kmpl,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Maruti Omni 8 Seater BSIV,2017,280000,32000,Petrol,Dealer,Manual,First Owner,14.0 kmpl,796 CC,35 bhp,6.1kgm@ 3000rpm,5.0,198754
-Maruti Wagon R LXI LPG BSIV,2010,225000,44000,LPG,Dealer,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI CNG BSIV,2010,225000,44000,CNG,Dealer,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Volkswagen Polo 1.2 MPI Comfortline,2015,455000,42000,Petrol,Dealer,Manual,First Owner,16.47 kmpl,1198 CC,74 bhp,110Nm@ 3750rpm,5.0,992700
 Hyundai i10 Magna 1.1L,2015,351000,45000,Petrol,Dealer,Manual,Second Owner,19.81 kmpl,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Volkswagen Vento Petrol Highline,2012,535000,12000,Petrol,Dealer,Manual,Second Owner,15.04 kmpl,1598 CC,103.6 bhp,153Nm@ 3800rpm,5.0,1368200
@@ -374,18 +374,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai i10 Magna,2010,150000,106000,Petrol,Individual,Manual,Third Owner,20.36 kmpl,1197 CC,78.9 bhp,111.7Nm@ 4000rpm,5.0,655431
@@ -413,18 +413,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Honda Amaze S CVT Diesel BSIV,2019,700000,40000,Diesel,Individual,Automatic,First Owner,23.8 kmpl,1498 CC,78.9 bhp,160Nm@ 1750rpm,5.0,999000
@@ -650,18 +650,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Mahindra TUV 300 T8,2015,634000,165000,Diesel,Individual,Manual,First Owner,18.49 kmpl,1493 CC,100 bhp,240Nm@ 1600-2800rpm,7.0,1100000
@@ -869,7 +869,7 @@ Maruti Alto 800 CNG LXI,2012,165000,60000,CNG,Individual,Manual,Second Owner,30.
 Renault KWID RXT,2017,290000,28000,Petrol,Individual,Manual,First Owner,25.17 kmpl,799 CC,53.3 bhp,72Nm@ 4386rpm,5.0,531200
 Hyundai EON Era,2011,160000,57000,Petrol,Individual,Manual,First Owner,21.1 kmpl,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
 Maruti Swift Dzire ZDI,2017,695000,50000,Diesel,Individual,Manual,First Owner,26.59 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
-Maruti Wagon R Duo Lxi,2012,231000,70000,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R Duo Lxi,2012,231000,70000,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Toyota Corolla Altis D-4D J,2015,1050000,60000,Diesel,Individual,Manual,First Owner,21.43 kmpl,1364 CC,87.2 bhp,205Nm@ 1800-2800rpm,5.0,1500000
 Hyundai i20 Sportz 1.2,2013,400000,70000,Petrol,Individual,Manual,First Owner,18.5 kmpl,1197 CC,82.85 bhp,113.7Nm@ 4000rpm,5.0,900000
 Hyundai i20 2015-2017 Sportz 1.2,2016,500000,40000,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
@@ -1081,18 +1081,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,2625000,9000,Diesel,Dealer,Automatic,First Owner,13.6 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,4850311
@@ -1100,18 +1100,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,2625000,9000,Diesel,Dealer,Automatic,First Owner,13.6 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,4850311
@@ -1119,18 +1119,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,2625000,9000,Diesel,Dealer,Automatic,First Owner,13.6 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,4850311
@@ -1138,18 +1138,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Tata Indigo CS eLX BS IV,2017,385000,155000,Diesel,Individual,Manual,First Owner,25.0 kmpl,1396 CC,69.01 bhp,140Nm@ 1800-3000rpm,5.0,800000
@@ -1510,7 +1510,7 @@ Maruti Wagon R LXI Optional,2016,350000,25000,Petrol,Individual,Manual,First Own
 Maruti Swift Dzire LDI Optional,2015,459999,80000,Diesel,Individual,Manual,First Owner,26.59 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Alto LXi,2012,185000,60000,Petrol,Individual,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,350000
 Volkswagen Polo Diesel Highline 1.2L,2013,550000,38000,Diesel,Individual,Manual,First Owner,22.07 kmpl,1199 CC,73.9 bhp,180Nm@ 2000rpm,5.0,992700
-Maruti Wagon R Duo Lxi,2012,300000,100000,LPG,Individual,Manual,Second Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R Duo Lxi,2012,300000,100000,CNG,Individual,Manual,Second Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Maruti Omni E 8 Str STD,2012,175000,60000,Petrol,Individual,Manual,Third Owner,,,,,,198754
 Toyota Innova 2.5 G (Diesel) 8 Seater BS IV,2011,900000,110000,Diesel,Individual,Manual,First Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),8.0,1673245
 Honda BR-V i-DTEC S MT,2016,900000,92000,Diesel,Individual,Manual,First Owner,21.9 kmpl,1498 CC,98.6 bhp,200Nm@ 1750rpm,7.0,1150000
@@ -1564,20 +1564,20 @@ Audi Q5 35TDI Premium Plus,2018,3975000,31800,Diesel,Dealer,Automatic,First Owne
 Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,2487 CC,214.56 bhp,202Nm@ 3600-5200rpm,5.0,6175000
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Jeep Wrangler 2016-2019 3.6 4X4,2017,4100000,17000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,3604 CC,280 bhp,347Nm@ 4300rpm,5.0,5790000
-Toyota Yaris V BSIV,2018,1000000,4295,Petrol,Trustmark Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
-Toyota Yaris V BSIV,2018,1000000,5229,Petrol,Trustmark Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
-Hyundai Grand i10 Nios Sportz,2019,550000,4701,Petrol,Trustmark Dealer,Manual,First Owner,20.7 kmpl,1197 CC,81.86 bhp,113.75Nm@ 4000rpm,5.0,497944
-Maruti Baleno Alpha,2016,600000,6757,Petrol,Trustmark Dealer,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,910000
-Skoda Rapid 1.6 MPI AT Style Plus,2016,675000,28182,Petrol,Trustmark Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.52 bhp,153Nm@ 3800rpm,5.0,1329000
-Nissan Kicks XV BSIV,2019,950000,11533,Petrol,Trustmark Dealer,Manual,First Owner,14.23 kmpl,1498 CC,104.55 bhp,142Nm@ 4000rpm,5.0,1464990
-Honda City i VTEC V,2017,850000,11688,Petrol,Trustmark Dealer,Manual,First Owner,17.8 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Toyota Corolla Altis 1.8 VL AT,2012,550000,57728,Petrol,Trustmark Dealer,Automatic,First Owner,14.53 kmpl,1794 CC,138.1 bhp,173Nm@ 4000rpm,5.0,1500000
-Maruti Ciaz 1.3 Alpha,2018,925000,23712,Diesel,Trustmark Dealer,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
-Ford Ecosport 1.5 Ti VCT AT Titanium,2015,625000,70670,Petrol,Trustmark Dealer,Automatic,First Owner,16.5 kmpl,1499 CC,110 bhp,140Nm@ 4400rpm,5.0,1149000
+Toyota Yaris V BSIV,2018,1000000,4295,Petrol,Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
+Toyota Yaris V BSIV,2018,1000000,5229,Petrol,Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
+Hyundai Grand i10 Nios Sportz,2019,550000,4701,Petrol,Dealer,Manual,First Owner,20.7 kmpl,1197 CC,81.86 bhp,113.75Nm@ 4000rpm,5.0,497944
+Maruti Baleno Alpha,2016,600000,6757,Petrol,Dealer,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,910000
+Skoda Rapid 1.6 MPI AT Style Plus,2016,675000,28182,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.52 bhp,153Nm@ 3800rpm,5.0,1329000
+Nissan Kicks XV BSIV,2019,950000,11533,Petrol,Dealer,Manual,First Owner,14.23 kmpl,1498 CC,104.55 bhp,142Nm@ 4000rpm,5.0,1464990
+Honda City i VTEC V,2017,850000,11688,Petrol,Dealer,Manual,First Owner,17.8 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Toyota Corolla Altis 1.8 VL AT,2012,550000,57728,Petrol,Dealer,Automatic,First Owner,14.53 kmpl,1794 CC,138.1 bhp,173Nm@ 4000rpm,5.0,1500000
+Maruti Ciaz 1.3 Alpha,2018,925000,23712,Diesel,Dealer,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
+Ford Ecosport 1.5 Ti VCT AT Titanium,2015,625000,70670,Petrol,Dealer,Automatic,First Owner,16.5 kmpl,1499 CC,110 bhp,140Nm@ 4400rpm,5.0,1149000
 Maruti Alto 800 LXI,2014,200000,43381,Petrol,Dealer,Manual,Second Owner,22.74 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0,448200
-Honda City i VTEC CVT VX,2014,635000,79011,Petrol,Trustmark Dealer,Automatic,First Owner,18.0 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Honda City i VTEC CVT VX,2014,635000,79011,Petrol,Dealer,Automatic,First Owner,18.0 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
 Maruti SX4 VDI,2014,425000,50000,Diesel,Individual,Manual,Second Owner,21.79 kmpl,1248 CC,88.73 bhp,200Nm@ 1750rpm,5.0,953823
 Maruti Wagon R VXI BS IV,2011,220000,40000,Petrol,Individual,Manual,First Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,600000
 Hyundai Grand i10 1.2 Kappa Asta,2018,590000,10000,Petrol,Individual,Manual,First Owner,18.9 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,5.0,497944
@@ -1657,7 +1657,7 @@ Hyundai Creta 1.6 CRDi SX Option,2017,1250000,90000,Diesel,Individual,Manual,Fir
 Honda Accord 2.4 M/T,2012,600000,144030,Petrol,Individual,Manual,First Owner,12.8 kmpl,2354 CC,177.6 bhp,222Nm@ 4300rpm,5.0,3800000
 Honda City i DTEC VX,2014,819999,200000,Diesel,Individual,Manual,First Owner,25.1 kmpl,1498 CC,98.6 bhp,200Nm@ 1750rpm,5.0,1494967
 Hyundai i20 2015-2017 Asta Option 1.2,2016,650000,29000,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
-Maruti Wagon R LXI DUO BSIII,2007,105000,90000,LPG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2007,105000,90000,CNG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Mahindra Renault Logan 1.5 Diesel DLSX,2009,200000,176000,Diesel,Individual,Manual,Second Owner,17.0 kmpl,1461 CC,66 bhp,"16@ 2,000(kgm@ rpm)",5.0,750000
 Tata Indigo CS LX (TDI) BS III,2013,200000,150000,Diesel,Individual,Manual,First Owner,19.09 kmpl,1396 CC,69 bhp,135Nm@ 2500rpm,5.0,800000
 Maruti Omni E MPI STD BS IV,2016,220000,90000,Petrol,Individual,Manual,First Owner,16.8 kmpl,796 CC,34.2 bhp,59Nm@ 2500rpm,8.0,198754
@@ -1713,18 +1713,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Honda City 1.5 V AT,2010,321000,60000,Petrol,Individual,Automatic,Second Owner,16.8 kmpl,1497 CC,118 bhp,146Nm at 4800 rpm,5.0,1494967
@@ -1860,19 +1860,19 @@ Audi Q5 35TDI Premium Plus,2018,3975000,31800,Diesel,Dealer,Automatic,First Owne
 Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,2487 CC,214.56 bhp,202Nm@ 3600-5200rpm,5.0,6175000
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Jeep Wrangler 2016-2019 3.6 4X4,2017,4100000,17000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,3604 CC,280 bhp,347Nm@ 4300rpm,5.0,5790000
-Toyota Yaris V BSIV,2018,1000000,4295,Petrol,Trustmark Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
-Toyota Yaris V BSIV,2018,1000000,5229,Petrol,Trustmark Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Ciaz 1.3 Alpha,2018,925000,23712,Diesel,Trustmark Dealer,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Maruti Wagon R VXI BS IV,2018,430000,16589,Petrol,Trustmark Dealer,Manual,First Owner,20.51 kmpl,998 CC,67.04 bhp,90Nm@ 3500rpm,5.0,600000
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Honda City i VTEC V,2016,675000,53201,Petrol,Trustmark Dealer,Manual,Second Owner,17.8 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
-Maruti Baleno Delta,2017,570000,25272,Petrol,Trustmark Dealer,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,910000
-Maruti Vitara Brezza ZDi Plus,2017,850000,53619,Diesel,Trustmark Dealer,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
+Toyota Yaris V BSIV,2018,1000000,4295,Petrol,Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
+Toyota Yaris V BSIV,2018,1000000,5229,Petrol,Dealer,Manual,First Owner,17.1 kmpl,1496 CC,105.5 bhp,140Nm@ 4200rpm,5.0,1460000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Ciaz 1.3 Alpha,2018,925000,23712,Diesel,Dealer,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Maruti Wagon R VXI BS IV,2018,430000,16589,Petrol,Dealer,Manual,First Owner,20.51 kmpl,998 CC,67.04 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Honda City i VTEC V,2016,675000,53201,Petrol,Dealer,Manual,Second Owner,17.8 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
+Maruti Baleno Delta,2017,570000,25272,Petrol,Dealer,Manual,First Owner,21.01 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,910000
+Maruti Vitara Brezza ZDi Plus,2017,850000,53619,Diesel,Dealer,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Ford Ecosport 1.5 Petrol Ambiente,2018,640000,6001,Petrol,Dealer,Manual,First Owner,15.9 kmpl,1496 CC,120.69 bhp,149Nm@ 4500rpm,5.0,1149000
 Tata Indigo CS LS (TDI) BS-III,2013,250000,80000,Diesel,Individual,Manual,First Owner,19.09 kmpl,1405 CC,69.01 bhp,135Nm@ 2500rpm,5.0,800000
 Renault Duster 110PS Diesel RxZ,2018,1250000,12000,Diesel,Individual,Manual,First Owner,19.6 kmpl,1461 CC,108.45 bhp,245Nm@ 1750rpm,5.0,1387000
@@ -1906,7 +1906,7 @@ Maruti Swift Dzire VDI,2016,660000,55000,Diesel,Individual,Manual,First Owner,26
 Ford Fiesta Classic 1.6 Duratec LXI,2012,256000,90000,Petrol,Individual,Manual,Second Owner,15.3 kmpl,1596 CC,99.6 bhp,146Nm@ 3400rpm,5.0,1018600
 Renault KWID 1.0 RXT Optional,2018,409999,35000,Petrol,Individual,Manual,First Owner,23.01 kmpl,999 CC,67 bhp,91Nm@ 4250rpm,5.0,531200
 Toyota Fortuner 4x4 MT,2015,1888000,120000,Diesel,Individual,Manual,Second Owner,12.55 kmpl,2982 CC,168.5 bhp,343Nm@ 1400-3400rpm,7.0,3779000
-Hyundai Santro Xing GLS LPG,2011,250000,100000,LPG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GLS CNG,2011,250000,100000,CNG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Honda Civic 1.8 V AT,2009,280000,40000,Petrol,Individual,Automatic,Third Owner,12.9 kmpl,1799 CC,130 bhp,172Nm@ 4300rpm,5.0,1500000
 Mahindra Xylo D2,2010,300000,100000,Diesel,Individual,Manual,First Owner,13.0 kmpl,2489 CC,95 bhp,220Nm at 1400-2600 rpm,8.0,851090
 Tata Safari Storme LX,2016,900000,120000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,5.0,1099369
@@ -2107,7 +2107,7 @@ Hyundai Elantra CRDi SX,2015,900000,145000,Diesel,Individual,Manual,First Owner,
 Tata Sumo EX BS IV,2012,254999,190000,Diesel,Individual,Manual,Third Owner,,,,,,1000000
 Mahindra XUV500 W9 2WD,2018,1530000,40000,Diesel,Individual,Manual,First Owner,16.0 kmpl,2179 CC,138 bhp,330Nm@ 1600-2800rpm,7.0,1800000
 Maruti Baleno Delta 1.3,2015,590000,110000,Diesel,Individual,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Maruti Wagon R LXI DUO BSIII,2008,170000,112000,LPG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2008,170000,112000,CNG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Audi A3 35 TDI Premium Plus,2017,2600000,70000,Diesel,Individual,Automatic,First Owner,20.38 kmpl,1968 CC,143 bhp,320Nm@ 1750-3000rpm,5.0,2920750
 Maruti Ritz VDi,2016,475000,110000,Diesel,Individual,Manual,First Owner,23.2 kmpl,1248 CC,73.94 bhp,190Nm@ 2000rpm,5.0,658205
 Hyundai Grand i10 1.2 CRDi Asta,2018,700000,29000,Diesel,Individual,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
@@ -2165,7 +2165,7 @@ Maruti Alto K10 2010-2014 VXI,2012,252000,48000,Petrol,Individual,Manual,First O
 Maruti Swift VDI,2012,280000,70000,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Swift VXI 2018,2018,509999,70000,Petrol,Individual,Manual,Second Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Mahindra Scorpio 1.99 S6 Plus,2016,1050000,58000,Diesel,Individual,Manual,First Owner,15.4 kmpl,1997 CC,120 bhp,280Nm@ 1800-2800rpm,7.0,1652691
-Maruti Wagon R LXI DUO BSIII,2010,200000,40000,LPG,Individual,Manual,Fourth & Above Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2010,200000,40000,CNG,Individual,Manual,Fourth & Above Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Maruti Zen LXI,2005,60000,90000,Petrol,Individual,Manual,Second Owner,17.3 kmpl,993 CC,60 bhp,78Nm@ 4500rpm,5.0,414000
 Mahindra Xylo E8 ABS Airbag,2010,320000,40000,Diesel,Individual,Manual,Second Owner,14.0 kmpl,2498 CC,112 bhp,260 Nm at 1800-2200 rpm,7.0,851090
 Mahindra Scorpio LX,2013,520000,110000,Diesel,Individual,Manual,First Owner,12.05 kmpl,2179 CC,120 bhp,290Nm@ 1800-2800rpm,9.0,1652691
@@ -2465,7 +2465,7 @@ Mahindra Ssangyong Rexton RX7,2013,1000000,40000,Diesel,Individual,Automatic,Fir
 Maruti Wagon R LXI BS IV,2010,220000,46533,Petrol,Dealer,Manual,First Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Omni E 8 Str STD,2005,105000,59635,Petrol,Dealer,Manual,Second Owner,,,,,,198754
 Maruti Omni 8 Seater BSIV,2008,114999,58632,Petrol,Dealer,Manual,Second Owner,14.0 kmpl,796 CC,35 bhp,6.1kgm@ 3000rpm,5.0,198754
-Maruti Omni LPG STD BSIV,2008,110000,58632,LPG,Dealer,Manual,Second Owner,,,,,,198754
+Maruti Omni CNG STD BSIV,2008,110000,58632,CNG,Dealer,Manual,Second Owner,,,,,,198754
 Mahindra XUV500 AT W6 2WD,2016,850000,80000,Diesel,Individual,Automatic,Second Owner,16.0 kmpl,2179 CC,140 bhp,330Nm@ 1600-2800rpm,7.0,1800000
 Maruti Ertiga SHVS VDI,2016,750000,70000,Diesel,Individual,Manual,First Owner,24.52 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,7.0,1047000
 Renault KWID 1.0 RXT Optional,2017,265000,90000,Petrol,Individual,Manual,First Owner,23.01 kmpl,999 CC,67 bhp,91Nm@ 4250rpm,5.0,531200
@@ -2483,7 +2483,7 @@ Tata Safari Storme EX,2017,850000,162000,Diesel,Individual,Manual,First Owner,14
 Maruti Wagon R LXI CNG,2016,300000,50000,CNG,Individual,Manual,Second Owner,26.6 km/kg,998 CC,58.16 bhp,77Nm@ 3500rpm,5.0,600000
 Hyundai i20 1.2 Magna Executive,2018,555000,25000,Petrol,Individual,Manual,Second Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
 Mahindra Scorpio 1.99 S6 Plus,2015,825000,60000,Diesel,Individual,Manual,First Owner,15.4 kmpl,1997 CC,120 bhp,280Nm@ 1800-2800rpm,7.0,1652691
-Hyundai Santro Xing GLS LPG,2010,150000,70000,LPG,Individual,Manual,Third Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GLS CNG,2010,150000,70000,CNG,Individual,Manual,Third Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Maruti Swift Dzire VDi,2009,185000,138000,Diesel,Individual,Manual,Second Owner,19.3 kmpl,1248 CC,73.9 bhp,190Nm@ 2000rpm,5.0,841000
 Hyundai i10 Magna,2010,180000,70000,Petrol,Individual,Manual,Second Owner,20.36 kmpl,1197 CC,78.9 bhp,111.7Nm@ 4000rpm,5.0,655431
 Maruti Alto LXi,2010,160000,48000,Petrol,Individual,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,350000
@@ -2517,7 +2517,7 @@ Hyundai Grand i10 1.2 Kappa Asta,2017,500000,27500,Petrol,Individual,Manual,Firs
 Maruti Ertiga VDI,2012,520000,73000,Diesel,Individual,Manual,First Owner,20.77 kmpl,1248 CC,88.76 bhp,200Nm@ 1750rpm,7.0,1047000
 Maruti Swift Dzire VDI,2017,650000,75000,Diesel,Individual,Manual,First Owner,26.59 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Renault KWID Climber 1.0 MT,2018,380000,5000,Petrol,Individual,Manual,First Owner,23.01 kmpl,999 CC,67 bhp,91Nm@ 4250rpm,5.0,531200
-Maruti Wagon R LXI LPG BSIV,2010,275000,50000,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI CNG BSIV,2010,275000,50000,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Maruti Swift Dzire VDI,2015,520000,70000,Diesel,Individual,Manual,First Owner,26.59 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Swift Dzire VDI,2015,610000,60000,Diesel,Individual,Manual,First Owner,26.59 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Wagon R LXI,2004,85000,110000,Petrol,Individual,Manual,First Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,600000
@@ -2578,7 +2578,7 @@ Maruti Swift Dzire VDI,2017,651000,32500,Diesel,Individual,Manual,Second Owner,2
 Maruti Alto K10 VXI AGS,2019,380000,14000,Petrol,Individual,Automatic,First Owner,23.95 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,340000
 Chevrolet Beat Diesel LT,2014,160000,70000,Diesel,Individual,Manual,Third Owner,25.44 kmpl,936 CC,56.3 bhp,142.5Nm@ 1750rpm,5.0,657217
 Hyundai Verna VTVT 1.6 AT SX Option,2019,1270000,20000,Petrol,Individual,Automatic,First Owner,17.0 kmpl,1591 CC,121.3 bhp,151Nm@ 4850rpm,5.0,1519700
-Maruti Wagon R Duo Lxi,2011,300000,300000,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R Duo Lxi,2011,300000,300000,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Maruti Swift VDI Optional,2015,405000,100000,Diesel,Individual,Manual,First Owner,25.2 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Mahindra XUV500 W8 2WD,2015,850000,64800,Diesel,Individual,Manual,First Owner,15.1 kmpl,2179 CC,140 bhp,330Nm@ 1600-2800rpm,7.0,1800000
 Mahindra Bolero Power Plus ZLX,2017,680000,90000,Diesel,Individual,Manual,First Owner,16.5 kmpl,1493 CC,70 bhp,195Nm@ 1400-2200rpm,7.0,914818
@@ -2587,7 +2587,7 @@ Hyundai Verna 1.4 CRDi,2015,525000,248000,Diesel,Individual,Manual,First Owner,2
 Toyota Innova 2.5 VX (Diesel) 7 Seater,2014,1019999,60000,Diesel,Individual,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
 Toyota Innova 2.5 G2,2005,245000,120000,Diesel,Individual,Manual,First Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),8.0,1673245
 Hyundai Elantra CRDi SX,2015,869999,120000,Diesel,Individual,Manual,First Owner,22.7 kmpl,1582 CC,126.2 bhp,259.88Nm@ 1900-2750rpm,5.0,2110000
-Maruti Wagon R Duo Lxi,2010,160000,66444,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R Duo Lxi,2010,160000,66444,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Maruti Vitara Brezza VDi Option,2016,700000,86000,Diesel,Individual,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
 Nissan Sunny Diesel XV,2012,300000,90000,Diesel,Individual,Manual,First Owner,21.64 kmpl,1461 CC,84.8 bhp,200Nm@ 2000rpm,5.0,707025
 Honda Civic 1.8 S AT,2007,175000,218463,Petrol,Individual,Automatic,First Owner,12.9 kmpl,1799 CC,130 bhp,172Nm@ 4300rpm,5.0,1500000
@@ -2634,18 +2634,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai Santro Xing GLS,2011,170000,50000,Petrol,Individual,Manual,Third Owner,17.92 kmpl,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
@@ -2667,18 +2667,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Toyota Etios GD,2012,500000,90000,Diesel,Individual,Manual,First Owner,,,,,,643000
@@ -3009,7 +3009,7 @@ Maruti Swift Dzire VDI,2014,500000,84000,Diesel,Individual,Manual,First Owner,23
 Hyundai i20 2015-2017 Asta Option 1.4 CRDi,2016,875000,40000,Diesel,Individual,Manual,First Owner,22.54 kmpl,1396 CC,88.73 bhp,219.7Nm@ 1500-2750rpm,5.0,900000
 Tata Indica Vista TDI LX,2011,210000,100000,Diesel,Individual,Manual,First Owner,19.1 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0,425600
 Tata Indica Vista TDI LX,2011,210000,120000,Diesel,Individual,Manual,First Owner,19.4 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0,425600
-Hyundai Santro Xing GLS LPG,2010,200000,80000,LPG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GLS CNG,2010,200000,80000,CNG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Maruti Alto LX,2011,175000,175000,Petrol,Individual,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,350000
 Hyundai i20 1.2 Asta Option,2017,700000,30000,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
 Hyundai i20 1.2 Asta Option,2017,700000,30000,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
@@ -3041,7 +3041,7 @@ Volkswagen Ameo 1.5 TDI Comfortline,2017,550000,50000,Diesel,Individual,Manual,F
 Mahindra Bolero 2011-2019 SLX,2017,710000,70000,Diesel,Individual,Manual,First Owner,15.96 kmpl,2523 CC,62.1 bhp,195Nm@ 1400-2200rpm,7.0,914818
 Mahindra Bolero 2011-2019 SLX,2017,700000,70000,Diesel,Individual,Manual,First Owner,15.96 kmpl,2523 CC,62.1 bhp,195Nm@ 1400-2200rpm,7.0,914818
 Mahindra Bolero 2011-2019 SLE BSIII,2016,550000,120000,Diesel,Individual,Manual,First Owner,15.96 kmpl,2523 CC,62.1 bhp,195Nm@ 1400-2200rpm,7.0,914818
-Hyundai i10 Sportz 1.1L LPG,2015,375000,60000,LPG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
+Hyundai i10 Sportz 1.1L CNG,2015,375000,60000,CNG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Tata Safari DICOR 2.2 EX 4x2,2015,600000,60000,Diesel,Individual,Manual,First Owner,13.93 kmpl,2179 CC,138.03 bhp,320Nm@ 1700-2700rpm,7.0,1400000
 Maruti Swift VDI,2013,380000,76000,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Ritz VDi,2012,300000,70000,Diesel,Individual,Manual,First Owner,23.2 kmpl,1248 CC,73.94 bhp,190Nm@ 2000rpm,5.0,658205
@@ -3049,7 +3049,7 @@ Maruti 800 DX,1998,45000,80000,Petrol,Individual,Manual,Fourth & Above Owner,16.
 Toyota Innova 2.5 G4 Diesel 8-seater,2010,450000,210000,Diesel,Individual,Manual,Second Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),8.0,1673245
 Mahindra Bolero Power Plus Plus AC BSIV PS,2015,475000,128000,Diesel,Individual,Manual,Third Owner,15.96 kmpl,2523 CC,63 bhp,180Nm@ 1440-1500rpm,9.0,914818
 Renault Triber RXZ BSIV,2019,650000,5000,Petrol,Individual,Manual,First Owner,20.0 kmpl,999 CC,72 bhp,96Nm@ 3500rpm,7.0,782000
-Maruti Wagon R LXI LPG BSIV,2011,200000,70000,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI CNG BSIV,2011,200000,70000,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Maruti Swift VDI,2013,350000,85000,Diesel,Individual,Manual,First Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Vitara Brezza ZDi AMT,2018,911999,25000,Diesel,Individual,Automatic,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
 Maruti Swift Dzire VXI 1.2,2018,650000,15000,Petrol,Individual,Manual,First Owner,21.21 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
@@ -3082,29 +3082,29 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai Santro GLS I - Euro I,1999,60000,140000,Petrol,Individual,Manual,Third Owner,,,,,,635490
 Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,725000,45000,Diesel,Individual,Manual,First Owner,23.0 kmpl,1498 CC,98.96 bhp,205Nm@ 1750-3250rpm,5.0,1149000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
-Honda Brio 1.2 VX MT,2014,325000,52442,Petrol,Trustmark Dealer,Manual,Second Owner,18.5 kmpl,1198 CC,86.8 bhp,109Nm@ 4500rpm,5.0,500000
+Honda Brio 1.2 VX MT,2014,325000,52442,Petrol,Dealer,Manual,Second Owner,18.5 kmpl,1198 CC,86.8 bhp,109Nm@ 4500rpm,5.0,500000
 Hyundai i10 Magna,2013,229999,39000,Petrol,Dealer,Manual,First Owner,20.36 kmpl,1197 CC,78.9 bhp,111.7Nm@ 4000rpm,5.0,655431
 Mercedes-Benz New C-Class C 200 Kompressor Elegance AT,2007,400000,42000,Petrol,Dealer,Automatic,First Owner,11.74 kmpl,1796 CC,186 bhp,285Nm@ 2400-4000rpm,5.0,5500000
 Volkswagen Polo 1.2 MPI Highline,2015,449000,34156,Petrol,Dealer,Manual,First Owner,16.47 kmpl,1198 CC,74 bhp,110Nm@ 3750rpm,5.0,992700
@@ -3112,7 +3112,7 @@ Hyundai Grand i10 1.2 Kappa Sportz BSIV,2017,455000,34152,Petrol,Dealer,Manual,F
 Audi A4 35 TDI Premium Plus,2015,1750000,37000,Diesel,Dealer,Automatic,First Owner,18.25 kmpl,1968 CC,187.74 bhp,400Nm@ 1750-3000rpm,5.0,4667000
 Toyota Innova Crysta 2.8 GX AT BSIV,2017,1390000,98000,Diesel,Dealer,Automatic,First Owner,11.36 kmpl,2755 CC,171.5 bhp,360Nm@ 1200-3400rpm,7.0,1673245
 Hyundai Creta 1.6 SX Option,2019,1150000,31000,Petrol,Dealer,Manual,First Owner,15.8 kmpl,1591 CC,121.3 bhp,151Nm@ 4850rpm,5.0,1753800
-Hyundai i20 1.2 Magna Executive,2018,650000,62841,Petrol,Trustmark Dealer,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
+Hyundai i20 1.2 Magna Executive,2018,650000,62841,Petrol,Dealer,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
 Hyundai Creta 1.6 CRDi SX,2016,950000,38600,Diesel,Dealer,Manual,First Owner,19.67 kmpl,1582 CC,126.2 bhp,259.9Nm@ 1900-2750rpm,5.0,1753800
 Maruti Swift Dzire AMT ZDI Plus,2018,698000,27654,Diesel,Dealer,Automatic,First Owner,28.4 kmpl,1248 CC,74.02 bhp,190Nm@ 2000rpm,5.0,841000
 Hyundai Creta 1.6 CRDi SX,2017,975000,48698,Diesel,Dealer,Manual,First Owner,19.67 kmpl,1582 CC,126.2 bhp,259.9Nm@ 1900-2750rpm,5.0,1753800
@@ -3215,7 +3215,7 @@ Toyota Innova 2.5 GX (Diesel) 7 Seater,2016,950000,80000,Diesel,Individual,Manua
 Mahindra TUV 300 T8,2015,430000,110000,Diesel,Individual,Manual,Second Owner,18.49 kmpl,1493 CC,100 bhp,240Nm@ 1600-2800rpm,7.0,1100000
 Ford Endeavour 3.2 Titanium AT 4X4,2016,2100000,80000,Diesel,Individual,Automatic,First Owner,10.91 kmpl,3198 CC,197 bhp,470Nm@ 1750-2500rpm,7.0,3545000
 Hyundai Grand i10 1.2 CRDi Sportz,2018,540000,30000,Diesel,Individual,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
-Hyundai Santro Xing GL LPG,2012,175000,60000,LPG,Individual,Manual,Second Owner,17.8 km/kg,1086 CC,63 bhp,"9.8@ 3,000(kgm@ rpm)",5.0,635490
+Hyundai Santro Xing GL CNG,2012,175000,60000,CNG,Individual,Manual,Second Owner,17.8 km/kg,1086 CC,63 bhp,"9.8@ 3,000(kgm@ rpm)",5.0,635490
 Hyundai Creta 1.6 CRDi AT SX Plus,2018,1150000,44000,Diesel,Individual,Automatic,First Owner,17.01 kmpl,1582 CC,126.2 bhp,259.9Nm@ 1900-2750rpm,5.0,1753800
 Maruti Alto 800 LXI,2020,350000,5000,Petrol,Individual,Manual,First Owner,22.05 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0,448200
 Hyundai Elite i20 Petrol Asta Option,2019,690000,18000,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.86 bhp,114.73nm@ 4000rpm,5.0,1132900
@@ -3412,18 +3412,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Baleno Alpha 1.3,2017,735000,70000,Diesel,Individual,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
@@ -3465,7 +3465,7 @@ Hyundai Santro GLS I - Euro II,2006,140000,100000,Petrol,Individual,Manual,Secon
 Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2018,900000,19000,Diesel,Individual,Manual,First Owner,23.0 kmpl,1498 CC,98.96 bhp,205Nm@ 1750-3250rpm,5.0,1149000
 Hyundai i20 Sportz Option 1.4 CRDi,2015,600000,40000,Diesel,Individual,Manual,First Owner,22.54 kmpl,1396 CC,88.73 bhp,219.7Nm@ 1500-2750rpm,5.0,900000
 Mahindra Scorpio S10 7 Seater,2015,1100000,52269,Diesel,Individual,Manual,First Owner,15.4 kmpl,2179 CC,120 bhp,280Nm@ 1800-2800rpm,7.0,1652691
-Maruti Omni LPG CARGO BSIII W IMMOBILISER,2010,120000,170000,LPG,Individual,Manual,Second Owner,10.9 km/kg,796 CC,32.8 bhp,57Nm@ 2500rpm,5.0,198754
+Maruti Omni CNG CARGO BSIII W IMMOBILISER,2010,120000,170000,CNG,Individual,Manual,Second Owner,10.9 km/kg,796 CC,32.8 bhp,57Nm@ 2500rpm,5.0,198754
 Maruti Omni E 8 Str STD,2009,120000,140000,Petrol,Individual,Manual,First Owner,,,,,,198754
 Maruti Omni E 8 Str STD,2010,120000,170000,Petrol,Individual,Manual,Second Owner,,,,,,198754
 Hyundai i20 Magna,2009,229999,60000,Petrol,Individual,Manual,Third Owner,18.5 kmpl,1197 CC,80 bhp,"11.4 kgm at 4,000 rpm",5.0,900000
@@ -3491,7 +3491,7 @@ Tata Tigor 1.2 Revotron XT,2017,550000,10000,Petrol,Individual,Manual,First Owne
 Mahindra XUV500 W8 AWD,2013,720000,150000,Diesel,Individual,Manual,Second Owner,15.1 kmpl,2179 CC,140 bhp,330Nm@ 1600-2800rpm,7.0,1800000
 Nissan Micra XE,2011,110000,110000,Petrol,Individual,Manual,First Owner,18.06 kmpl,1198 CC,75 bhp,104Nm@ 4000rpm,5.0,599000
 Maruti Alto 800 VXI,2018,310000,10000,Petrol,Individual,Manual,First Owner,24.7 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0,448200
-Maruti Wagon R LXI LPG BSIV,2010,150000,70000,LPG,Individual,Manual,Second Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI CNG BSIV,2010,150000,70000,CNG,Individual,Manual,Second Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Tata Indica Vista TDI LX,2012,260000,46000,Diesel,Individual,Manual,First Owner,19.4 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0,425600
 Hyundai Accent GLS,2002,55000,120000,Petrol,Individual,Manual,Fourth & Above Owner,13.2 kmpl,1495 CC,94 bhp,"12.5@ 3,500(kgm@ rpm)",5.0,749910
 Maruti Swift VDI,2013,450000,108800,Diesel,Individual,Manual,Third Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
@@ -3520,18 +3520,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Tata Zest Quadrajet 1.3 XM,2015,400000,100000,Diesel,Individual,Manual,First Owner,23.0 kmpl,1248 CC,88.7 bhp,200Nm@ 1750-3000rpm,5.0,575011
@@ -3750,7 +3750,7 @@ Renault Duster 110PS Diesel RxZ,2012,320000,110000,Diesel,Individual,Manual,Thir
 Tata Manza Aura (ABS) Quadrajet BS IV,2011,149000,148000,Diesel,Individual,Manual,Second Owner,21.12 kmpl,1248 CC,88.8 bhp,200Nm@ 1750-3000rpm,5.0,880251
 Mahindra Scorpio S11 BSIV,2018,1500000,40000,Diesel,Individual,Manual,First Owner,16.36 kmpl,2179 CC,140 bhp,320Nm@ 1500-2800rpm,7.0,1652691
 Hyundai Accent Executive,2011,180000,70000,Petrol,Individual,Manual,First Owner,16.36 kmpl,1495 CC,93.7 bhp,124.6Nm@ 3500rpm,5.0,749910
-Hyundai Santro Xing GLS LPG,2012,185000,70000,LPG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GLS CNG,2012,185000,70000,CNG,Individual,Manual,Second Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Maruti 800 AC,2008,65000,40000,Petrol,Individual,Manual,Second Owner,16.1 kmpl,796 CC,37 bhp,59Nm@ 2500rpm,4.0,237902
 Tata Indigo LX,2010,130000,120000,Diesel,Individual,Manual,First Owner,17.0 kmpl,1405 CC,70 bhp,"13.5@ 2,500(kgm@ rpm)",5.0,800000
 Ford Fiesta Classic 1.4 Duratorq CLXI,2012,330000,60000,Diesel,Individual,Manual,First Owner,17.8 kmpl,1399 CC,67 bhp,160Nm@ 2000rpm,5.0,1018600
@@ -3795,7 +3795,7 @@ Mahindra Bolero Power Plus SLE,2017,735000,70000,Diesel,Individual,Manual,First 
 Toyota Etios Liva GD,2013,325000,120000,Diesel,Individual,Manual,First Owner,23.59 kmpl,1364 CC,67.06 bhp,170Nm@ 1800-2400rpm,5.0,643000
 Chevrolet Tavera LS B3 10 Seats BSII,2006,225000,100000,Diesel,Individual,Manual,First Owner,14.8 kmpl,2499 CC,80 bhp,"19@ 1,800(kgm@ rpm)",10.0,1158486
 Tata Zest Quadrajet 1.3 XM,2015,350000,90000,Diesel,Individual,Manual,Second Owner,23.0 kmpl,1248 CC,88.7 bhp,200Nm@ 1750-3000rpm,5.0,575011
-Maruti Wagon R LXI DUO BSIII,2006,110000,120000,LPG,Individual,Manual,Third Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2006,110000,120000,CNG,Individual,Manual,Third Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Maruti Zen Estilo LXI BSIII,2007,85000,160000,Petrol,Individual,Manual,Fourth & Above Owner,18.2 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,414000
 Toyota Corolla AE,2006,150000,100000,Petrol,Individual,Manual,Fourth & Above Owner,13.4 kmpl,1794 CC,125 bhp,"16.1@ 4,200(kgm@ rpm)",5.0,2800000
 Maruti Swift Dzire VDi,2009,225000,120000,Diesel,Individual,Manual,Third Owner,19.3 kmpl,1248 CC,73.9 bhp,190Nm@ 2000rpm,5.0,841000
@@ -3822,7 +3822,7 @@ Ford Fiesta 1.4 Duratorq ZXI,2006,180000,114321,Diesel,Individual,Manual,Second 
 Tata Indica Vista TDI LX,2013,200000,120000,Diesel,Individual,Manual,First Owner,19.4 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0,425600
 Mahindra Scorpio VLX 2WD AIRBAG AT BSIV,2012,575000,120000,Diesel,Individual,Manual,Second Owner,12.05 kmpl,2179 CC,120 bhp,290Nm@ 1800-2800rpm,8.0,1652691
 Toyota Etios Liva GD,2014,415000,146000,Diesel,Individual,Manual,First Owner,23.59 kmpl,1364 CC,67.06 bhp,170Nm@ 1800-2400rpm,5.0,643000
-Hyundai i10 Magna LPG,2012,350000,30000,LPG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
+Hyundai i10 Magna CNG,2012,350000,30000,CNG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Hyundai EON D Lite Plus,2017,350000,20000,Petrol,Individual,Manual,First Owner,21.1 kmpl,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
 Toyota Platinum Etios 1.4 GD,2017,632000,150000,Diesel,Individual,Manual,First Owner,23.59 kmpl,1364 CC,67.05 bhp,170Nm@ 1800-2400rpm,5.0,1400000
 Maruti Eeco CNG 5 Seater AC BSIV,2014,325000,70000,CNG,Individual,Manual,Second Owner,21.94 km/kg,1196 CC,61.7 bhp,85Nm@ 3000rpm,5.0,518500
@@ -3835,18 +3835,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai i20 1.2 Asta,2017,730000,37333,Petrol,Individual,Manual,First Owner,18.6 kmpl,1197 CC,81.83 bhp,114.7Nm@ 4000rpm,5.0,900000
@@ -4044,7 +4044,7 @@ Tata Tiago 1.2 Revotron XZ,2016,399000,40000,Petrol,Individual,Manual,First Owne
 Hyundai Santro Xing XL eRLX Euro II,2006,150000,100000,Petrol,Individual,Manual,Second Owner,,,,,,635490
 Tata Indica V2 Turbomax DLS BS IV,2012,275000,90000,Diesel,Individual,Manual,Second Owner,19.0 kmpl,1405 CC,71 bhp,135 Nm at 2500 rpm,5.0,425600
 Hyundai i20 1.4 CRDi Magna,2011,340000,80000,Diesel,Individual,Manual,Second Owner,21.9 kmpl,1396 CC,90 bhp,22.4 kgm at 1750-2750rpm,5.0,900000
-Hyundai EON LPG Era Plus,2012,222000,120000,LPG,Individual,Manual,First Owner,21.1 km/kg,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
+Hyundai EON CNG Era Plus,2012,222000,120000,CNG,Individual,Manual,First Owner,21.1 km/kg,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
 Mahindra Ssangyong Rexton RX7,2013,850000,200000,Diesel,Individual,Automatic,First Owner,11.18 kmpl,2696 CC,184 bhp,402Nm@ 1600-3000rpm,7.0,3500000
 Tata Indica V2 DLS,2007,70000,110000,Diesel,Individual,Manual,Second Owner,17.2 kmpl,1396 CC,53.5 bhp,"8.5@ 2,500(kgm@ rpm)",5.0,425600
 Tata Tiago 1.2 Revotron XT,2017,430000,38000,Petrol,Individual,Manual,Second Owner,23.84 kmpl,1199 CC,84 bhp,114Nm@ 3500rpm,5.0,684500
@@ -4219,18 +4219,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,2711000,9000,Diesel,Dealer,Automatic,First Owner,13.6 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,4850311
@@ -4238,18 +4238,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Mitsubishi Lancer 2.0 LXd,1999,155000,100000,Diesel,Individual,Manual,Third Owner,14.8 kmpl,1998 CC,68 bhp,"12.5@ 3,000(kgm@ rpm)",5.0,813203
@@ -4259,18 +4259,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Ford Fiesta 1.5 TDCi Titanium,2015,590000,80000,Diesel,Individual,Manual,First Owner,25.01 kmpl,1498 CC,89.75 bhp,204Nm@ 2000-2750rpm,5.0,1018600
@@ -4324,18 +4324,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Wagon R LX BSIII,2008,80000,100000,Petrol,Individual,Manual,Third Owner,17.3 kmpl,1061 CC,64 bhp,"8.6@ 3,500(kgm@ rpm)",5.0,600000
@@ -4418,18 +4418,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Toyota Etios V,2011,270000,167000,Petrol,Individual,Manual,First Owner,,,,,,643000
@@ -4541,10 +4541,10 @@ Hyundai i20 2015-2017 Magna 1.2,2016,520000,29000,Petrol,Individual,Manual,First
 Nissan Terrano XV D Premium AMT,2017,850000,55000,Diesel,Individual,Automatic,First Owner,19.61 kmpl,1461 CC,108.5 bhp,248Nm@ 2250rpm,5.0,999900
 Maruti Alto K10 VXI,2015,300000,40000,Petrol,Individual,Manual,First Owner,23.95 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,340000
 Honda City 1.5 S Inspire,2010,350000,120000,Petrol,Individual,Manual,Second Owner,17.0 kmpl,1497 CC,118 bhp,146Nm at 4800 rpm,5.0,1494967
-Maruti Omni LPG STD BSIV,1999,70000,100000,LPG,Individual,Manual,Fourth & Above Owner,,,,,,198754
+Maruti Omni CNG STD BSIV,1999,70000,100000,CNG,Individual,Manual,Fourth & Above Owner,,,,,,198754
 Maruti Vitara Brezza ZDi,2019,892000,10000,Diesel,Individual,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
 Fiat Grande Punto Sport 90BHP,2012,285000,70000,Diesel,Individual,Manual,Second Owner,20.3 kmpl,1248 CC,92 bhp,209Nm@ 2000rpm,5.0,750000
-Hyundai i10 Magna LPG,2012,300000,60000,LPG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
+Hyundai i10 Magna CNG,2012,300000,60000,CNG,Individual,Manual,First Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Maruti Ciaz VDI SHVS,2016,620000,90000,Diesel,Individual,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
 Maruti Vitara Brezza ZDi,2017,750000,90000,Diesel,Individual,Manual,First Owner,24.3 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1120000
 Maruti Alto 800 LXI,2016,270000,35000,Petrol,Individual,Manual,First Owner,22.74 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0,448200
@@ -4819,18 +4819,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai Xcent 1.1 CRDi S,2016,380000,80000,Diesel,Individual,Manual,Second Owner,24.4 kmpl,1120 CC,71 bhp,180.4Nm@ 1750-2500rpm,5.0,537000
@@ -5087,18 +5087,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Wagon R Stingray VXI Optional,2017,475000,40000,Petrol,Individual,Manual,First Owner,20.51 kmpl,998 CC,67.04 bhp,90Nm@ 3500rpm,5.0,600000
@@ -5248,12 +5248,12 @@ Audi Q5 35TDI Premium Plus,2018,3975000,31800,Diesel,Dealer,Automatic,First Owne
 Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,2487 CC,214.56 bhp,202Nm@ 3600-5200rpm,5.0,6175000
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Jeep Wrangler 2016-2019 3.6 4X4,2017,4100000,17000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,3604 CC,280 bhp,347Nm@ 4300rpm,5.0,5790000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Mercedes-Benz E-Class Exclusive E 200 BSIV,2019,5200000,17000,Petrol,Dealer,Automatic,First Owner,15.0 kmpl,1991 CC,194.4 bhp,300Nm@ 1600-4000rpm,5.0,8090000
 Land Rover Discovery Sport TD4 SE,2019,4500000,21000,Diesel,Dealer,Automatic,First Owner,12.83 kmpl,1999 CC,148.31 bhp,382nm@ 1750-2250rpm,7.0,
@@ -5321,7 +5321,7 @@ Mahindra XUV500 W9 BSIV,2018,1525000,46000,Diesel,Individual,Manual,First Owner,
 Maruti Swift VXI BSIII W/ ABS,2006,215000,102000,Petrol,Individual,Manual,Third Owner,16.1 kmpl,1298 CC,88.2 bhp,"11.5@ 4,500(kgm@ rpm)",5.0,841000
 Maruti Alto 800 Base,2015,210000,50000,Petrol,Individual,Manual,Second Owner,22.74 kmpl,796 CC,47.3 bhp,69Nm@ 3500rpm,5.0,448200
 Toyota Innova Crysta 2.4 VX MT BSIV,2016,1700000,110000,Diesel,Individual,Manual,Second Owner,13.68 kmpl,2393 CC,147.8 bhp,343Nm@ 1400-2800rpm,7.0,1673245
-Maruti Omni LPG STD BSIV,1991,55000,120000,LPG,Individual,Manual,Second Owner,,,,,,198754
+Maruti Omni CNG STD BSIV,1991,55000,120000,CNG,Individual,Manual,Second Owner,,,,,,198754
 Toyota Innova 2.5 G (Diesel) 7 Seater BS IV,2009,530000,285000,Diesel,Individual,Manual,Third Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),8.0,1673245
 Honda City i VTEC VX Option,2015,800000,50000,Petrol,Individual,Manual,First Owner,17.4 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0,1494967
 Maruti Swift VDI BSIV,2014,570000,70000,Diesel,Individual,Manual,Second Owner,25.2 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
@@ -5435,8 +5435,8 @@ Hyundai Elite i20 Sportz Plus Diesel,2019,834000,13000,Diesel,Individual,Manual,
 Tata Tiago 1.05 Revotorq XT,2017,450000,80000,Diesel,Individual,Manual,First Owner,27.28 kmpl,1047 CC,69 bhp,140Nm@ 1800-3000rpm,5.0,684500
 Volkswagen Polo 1.5 TDI Comfortline,2014,575000,40000,Diesel,Individual,Manual,Third Owner,20.14 kmpl,1498 CC,88.8 bhp,230Nm@ 1500-2500rpm,5.0,992700
 Maruti Swift Dzire ZDI Plus,2019,900000,20000,Diesel,Individual,Manual,First Owner,28.4 kmpl,1248 CC,74.02 bhp,190Nm@ 2000rpm,5.0,841000
-Maruti 800 AC LPG,2008,149000,87540,LPG,Individual,Manual,Third Owner,16.6 km/kg,796 CC,35.5 bhp,"5.7@ 2,500(kgm@ rpm)",5.0,237902
-Chevrolet Spark 1.0 PS LPG,2007,100000,84000,LPG,Individual,Manual,Third Owner,16.0 km/kg,995 CC,60 bhp,88.4Nm@ 4200rpm,5.0,421906
+Maruti 800 AC CNG,2008,149000,87540,CNG,Individual,Manual,Third Owner,16.6 km/kg,796 CC,35.5 bhp,"5.7@ 2,500(kgm@ rpm)",5.0,237902
+Chevrolet Spark 1.0 PS CNG,2007,100000,84000,CNG,Individual,Manual,Third Owner,16.0 km/kg,995 CC,60 bhp,88.4Nm@ 4200rpm,5.0,421906
 Skoda Fabia 1.2L Diesel Elegance,2011,325000,160000,Diesel,Individual,Manual,Third Owner,20.86 kmpl,1199 CC,75 bhp,180Nm@ 2000rpm,5.0,751074
 Volkswagen Vento Diesel Comfortline,2012,400000,100000,Diesel,Individual,Manual,Second Owner,20.54 kmpl,1598 CC,103.6 bhp,250Nm@ 1500-2500rpm,5.0,1368200
 Hyundai EON 1.0 Era Plus,2017,250000,35000,Petrol,Individual,Manual,Second Owner,20.3 kmpl,998 CC,68.05 bhp,94.14Nm@ 3500rpm,5.0,332951
@@ -5577,7 +5577,7 @@ Renault Scala Diesel RxE,2015,530000,110000,Diesel,Individual,Manual,First Owner
 Hyundai Grand i10 1.2 CRDi Sportz Option,2017,530000,80000,Diesel,Individual,Manual,Second Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 Hyundai Santro Xing GLS,2011,210000,50000,Petrol,Individual,Manual,Second Owner,17.92 kmpl,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Maruti Alto LXi,2007,130000,90000,Petrol,Individual,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,350000
-Maruti Wagon R LXI DUO BSIII,2008,148000,80000,LPG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
+Maruti Wagon R LXI DUO BSIII,2008,148000,80000,CNG,Individual,Manual,Second Owner,17.3 km/kg,1061 CC,57.5 bhp,"7.8@ 4,500(kgm@ rpm)",5.0,600000
 Volkswagen Passat Highline DSG S,2008,585000,120000,Diesel,Individual,Automatic,First Owner,14.3 kmpl,1968 CC,140 bhp,"36.6@ 1,750-2,500(kgm@ rpm)",5.0,3500000
 Hyundai i20 1.4 CRDi Magna,2011,270000,105000,Diesel,Individual,Manual,Second Owner,21.9 kmpl,1396 CC,90 bhp,22.4 kgm at 1750-2750rpm,5.0,900000
 Hyundai i10 Magna 1.2 iTech SE,2013,375000,40000,Petrol,Individual,Manual,First Owner,20.36 kmpl,1197 CC,78.9 bhp,111.7Nm@ 4000rpm,5.0,655431
@@ -5618,18 +5618,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Swift VDI,2013,335000,90000,Diesel,Individual,Manual,Second Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
@@ -5767,7 +5767,7 @@ Ford Figo Diesel Titanium,2011,180000,125000,Diesel,Individual,Manual,Second Own
 Mahindra Verito 1.5 D2 BSIII,2012,225000,110000,Diesel,Individual,Manual,Second Owner,20.8 kmpl,1461 CC,65 bhp,160Nm@ 2000rpm,5.0,527498
 Hyundai EON Era Plus,2017,310000,25000,Petrol,Individual,Manual,First Owner,21.1 kmpl,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
 Honda City i DTEC SV,2015,625000,30000,Diesel,Individual,Manual,First Owner,26.0 kmpl,1498 CC,98.6 bhp,200Nm@ 1750rpm,5.0,1494967
-Hyundai i10 Magna LPG,2013,275000,70000,LPG,Individual,Manual,Second Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
+Hyundai i10 Magna CNG,2013,275000,70000,CNG,Individual,Manual,Second Owner,19.2 km/kg,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Hyundai i10 Era,2013,245000,110000,Petrol,Individual,Manual,Second Owner,19.81 kmpl,1086 CC,68.05 bhp,99.04Nm@ 4500rpm,5.0,655431
 Maruti Zen Estilo VXI BSIV,2010,160000,200000,Petrol,Individual,Manual,First Owner,19.0 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,414000
 Hyundai EON Era Plus,2014,250000,80000,Petrol,Individual,Manual,First Owner,21.1 kmpl,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
@@ -6006,7 +6006,7 @@ Chevrolet Beat LT,2011,150000,100000,Petrol,Individual,Manual,Third Owner,18.6 k
 Hyundai EON D Lite Plus,2014,215000,40000,Petrol,Individual,Manual,First Owner,21.1 kmpl,814 CC,55.2 bhp,74.5Nm@ 4000rpm,5.0,332951
 Datsun GO T BSIV,2014,225000,35000,Petrol,Individual,Manual,First Owner,20.63 kmpl,1198 CC,67 bhp,104Nm@ 4000rpm,5.0,651238
 Renault KWID Climber 1.0 MT,2017,330000,20000,Petrol,Individual,Manual,First Owner,23.01 kmpl,999 CC,67 bhp,91Nm@ 4250rpm,5.0,531200
-Maruti Omni LPG CARGO BSIII W IMMOBILISER,2007,54000,144000,LPG,Individual,Manual,Second Owner,10.9 km/kg,796 CC,32.8 bhp,57Nm@ 2500rpm,5.0,198754
+Maruti Omni CNG CARGO BSIII W IMMOBILISER,2007,54000,144000,CNG,Individual,Manual,Second Owner,10.9 km/kg,796 CC,32.8 bhp,57Nm@ 2500rpm,5.0,198754
 Hyundai Grand i10 AT Sportz,2014,374000,54043,Petrol,Dealer,Automatic,First Owner,18.9 kmpl,1197 CC,81.86 bhp,113.75Nm@ 4000rpm,5.0,497944
 Hyundai Verna 1.6 SX CRDI (O) AT,2012,549000,66657,Diesel,Dealer,Automatic,First Owner,22.32 kmpl,1582 CC,126.32 bhp,259.8Nm@ 1900-2750rpm,5.0,1519700
 Tata Indigo CS LS (TDI) BS-III,2016,390000,42000,Diesel,Individual,Manual,Second Owner,19.09 kmpl,1405 CC,69.01 bhp,135Nm@ 2500rpm,5.0,800000
@@ -6170,18 +6170,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Renault KWID RXT Optional,2016,300000,25000,Petrol,Individual,Manual,First Owner,25.17 kmpl,799 CC,53.3 bhp,72Nm@ 4386rpm,5.0,531200
@@ -6252,7 +6252,7 @@ Hyundai i20 Asta 1.4 CRDi (Diesel),2009,310000,120000,Diesel,Individual,Manual,S
 Toyota Innova 2.5 V Diesel 7-seater,2011,700000,250000,Diesel,Individual,Manual,Second Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),7.0,1673245
 Ford Figo 1.5D Titanium Opt MT,2016,459999,69000,Diesel,Individual,Manual,Second Owner,25.83 kmpl,1498 CC,99 bhp,215Nm@ 1750-3000rpm,5.0,819000
 Maruti Ciaz ZDi Plus SHVS,2017,860000,80000,Diesel,Individual,Manual,First Owner,28.09 kmpl,1248 CC,88.5 bhp,200Nm@ 1750rpm,5.0,1133000
-Hyundai i10 LPG,2012,275000,97000,LPG,Individual,Manual,Third Owner,19.0 km/kg,1086 CC,68.1 bhp,99.1Nm@ 4500rpm,5.0,655431
+Hyundai i10 CNG,2012,275000,97000,CNG,Individual,Manual,Third Owner,19.0 km/kg,1086 CC,68.1 bhp,99.1Nm@ 4500rpm,5.0,655431
 Renault KWID RXT Optional,2016,390000,15000,Petrol,Individual,Manual,First Owner,25.17 kmpl,799 CC,53.3 bhp,72Nm@ 4386rpm,5.0,531200
 Tata Hexa XT,2018,1525000,50000,Diesel,Individual,Manual,First Owner,17.6 kmpl,2179 CC,153.86 bhp,400Nm@ 1750-2500rpm,7.0,1400000
 Maruti Alto LX BSIII,2005,110000,50800,Petrol,Dealer,Manual,Second Owner,19.7 kmpl,796 CC,46.3 bhp,62Nm@ 3000rpm,5.0,350000
@@ -6337,7 +6337,7 @@ Maruti Ertiga ZXI,2015,650000,60000,Petrol,Individual,Manual,First Owner,16.02 k
 Maruti Swift Dzire ZXI,2016,620000,36000,Petrol,Individual,Manual,First Owner,20.85 kmpl,1197 CC,83.14 bhp,115Nm@ 4000rpm,5.0,841000
 Maruti Wagon R VXI BS IV,2012,250000,65000,Petrol,Individual,Manual,Second Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,600000
 BMW X1 sDrive20d,2011,1000000,50000,Diesel,Individual,Automatic,First Owner,17.05 kmpl,1995 CC,184 bhp,380Nm@ 1750-2750rpm,5.0,4290000
-Maruti Wagon R Duo Lxi,2012,300000,60000,LPG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
+Maruti Wagon R Duo Lxi,2012,300000,60000,CNG,Individual,Manual,First Owner,26.2 km/kg,998 CC,58.2 bhp,77Nm@ 3500rpm,5.0,600000
 Fiat Grande Punto 1.3 Emotion (Diesel),2013,300000,82500,Diesel,Individual,Manual,First Owner,20.3 kmpl,1248 CC,75 bhp,197Nm@ 1750rpm,5.0,750000
 Ford EcoSport 1.5 Diesel Titanium BSIV,2018,810000,30000,Diesel,Individual,Manual,Second Owner,23.0 kmpl,1498 CC,98.96 bhp,205Nm@ 1750-3250rpm,5.0,1149000
 Chevrolet Cruze LTZ,2011,270000,100000,Diesel,Individual,Manual,Third Owner,18.3 kmpl,1991 CC,147.9 bhp,327Nm@ 2600rpm,5.0,1745953
@@ -6558,18 +6558,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Jaguar XE 2016-2019 2.0L Diesel Prestige,2017,2711000,9000,Diesel,Dealer,Automatic,First Owner,13.6 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,4850311
@@ -6577,18 +6577,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Swift Dzire LDI,2019,558000,70000,Diesel,Individual,Manual,First Owner,28.4 kmpl,1248 CC,74.02 bhp,190Nm@ 2000rpm,5.0,841000
@@ -6693,18 +6693,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Mahindra XUV500 W8 2WD,2011,575000,110000,Diesel,Individual,Manual,Second Owner,15.1 kmpl,2179 CC,140 bhp,330Nm@ 1600-2800rpm,7.0,1800000
@@ -6855,7 +6855,7 @@ Maruti Swift Dzire ZDI,2015,590000,50000,Diesel,Individual,Manual,First Owner,26
 Chevrolet Tavera Neo 3 10 Seats BSIII,2015,434000,120000,Diesel,Individual,Manual,First Owner,13.58 kmpl,2499 CC,72.4 bhp,171Nm@ 1800rpm,10.0,1158486
 Mahindra Bolero DI BSIII,2006,145000,170000,Diesel,Individual,Manual,First Owner,13.6 kmpl,2523 CC,63 bhp,180 Nm at 1440-1500rpm,7.0,914818
 Mahindra KUV 100 G80 K4 Plus 5Str,2018,445000,19700,Petrol,Individual,Manual,First Owner,18.15 kmpl,1198 CC,82 bhp,115Nm@ 3500-3600rpm,5.0,750000
-Hyundai Santro Xing GL Plus LPG,2011,191000,70000,LPG,Individual,Manual,First Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GL Plus CNG,2011,191000,70000,CNG,Individual,Manual,First Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Ford Figo Aspire 1.5 TDCi Titanium,2018,372000,50000,Diesel,Individual,Manual,Fourth & Above Owner,25.83 kmpl,1498 CC,99 bhp,215Nm@ 1750-3000rpm,5.0,819000
 Maruti Wagon R LXI,2005,65000,90000,Petrol,Individual,Manual,Second Owner,18.9 kmpl,998 CC,67.1 bhp,90Nm@ 3500rpm,5.0,600000
 Hyundai Santro GLS I - Euro II,2007,150000,60000,Petrol,Individual,Manual,Third Owner,,,,,,635490
@@ -6963,18 +6963,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Maruti Swift Dzire VDI,2014,420000,120000,Diesel,Individual,Manual,Second Owner,23.4 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
@@ -7100,7 +7100,7 @@ Mahindra TUV 300 mHAWK100 T8,2017,700000,60000,Diesel,Individual,Manual,First Ow
 Mahindra Bolero 2011-2019 DI - AC BS III,2016,600000,60000,Diesel,Individual,Manual,First Owner,15.96 kmpl,2523 CC,63 bhp,180Nm@ 1440-1500rpm,9.0,914818
 Nissan Terrano XL,2015,700000,40000,Petrol,Individual,Manual,First Owner,13.24 kmpl,1598 CC,102.5 bhp,145Nm@ 3750rpm,5.0,999900
 Tata Tiago 1.05 Revotorq XT,2016,400000,60000,Diesel,Individual,Manual,First Owner,27.28 kmpl,1047 CC,69 bhp,140Nm@ 1800-3000rpm,5.0,684500
-Hyundai Accent Executive LPG,2010,165000,80000,LPG,Individual,Manual,First Owner,13.2 km/kg,1495 CC,93.7 bhp,124.5Nm@ 3500rpm,5.0,749910
+Hyundai Accent Executive CNG,2010,165000,80000,CNG,Individual,Manual,First Owner,13.2 km/kg,1495 CC,93.7 bhp,124.5Nm@ 3500rpm,5.0,749910
 Toyota Innova 2.5 V Diesel 8-seater,2007,350000,376412,Diesel,Individual,Manual,Second Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),8.0,1673245
 Maruti Ertiga VXI,2014,425000,80000,Petrol,Individual,Manual,Third Owner,16.02 kmpl,1373 CC,93.7 bhp,130Nm@ 4000rpm,7.0,1047000
 Hyundai Santro Xing GL Plus,2012,180000,70000,Petrol,Individual,Manual,First Owner,17.92 kmpl,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
@@ -7111,7 +7111,7 @@ Ford EcoSport 1.5 Diesel Titanium Plus BSIV,2017,900000,35000,Diesel,Individual,
 Maruti Swift VDI,2013,390000,120000,Diesel,Individual,Manual,First Owner,22.9 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Swift Dzire VDI,2014,445000,80000,Diesel,Individual,Manual,Second Owner,23.4 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
 Maruti Swift Dzire VDI,2014,459999,70000,Diesel,Individual,Manual,Fourth & Above Owner,23.4 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,841000
-Maruti Wagon R LXI DUO BS IV,2013,275000,55000,LPG,Individual,Manual,First Owner,14.4 km/kg,998 CC,61.7 bhp,85Nm@ 3500rpm,5.0,600000
+Maruti Wagon R LXI DUO BS IV,2013,275000,55000,CNG,Individual,Manual,First Owner,14.4 km/kg,998 CC,61.7 bhp,85Nm@ 3500rpm,5.0,600000
 Maruti Ritz VDi,2009,200000,120000,Diesel,Individual,Manual,Second Owner,21.1 kmpl,1248 CC,73.9 bhp,113Nm@ 4500rpm,5.0,658205
 Maruti Swift Dzire 1.2 Lxi BSIV,2012,350000,72000,Petrol,Individual,Manual,Second Owner,17.5 kmpl,1197 CC,85.8 bhp,114Nm@ 4000rpm,5.0,841000
 Tata New Safari 4X4 EXI BSIII,2007,95000,120000,Diesel,Individual,Manual,Second Owner,12.0 kmpl,2092 CC,127 bhp,"20@ 3,750(kgm@ rpm)",7.0,2145000
@@ -7244,7 +7244,7 @@ Volkswagen Polo Diesel Comfortline 1.2L,2011,320000,77000,Diesel,Individual,Manu
 Mahindra KUV 100 D75 K8 Dual Tone,2017,690000,40000,Diesel,Individual,Manual,First Owner,25.32 kmpl,1198 CC,77 bhp,190Nm@ 1750-2250rpm,6.0,750000
 Maruti Swift Dzire ZDi,2012,375000,70000,Diesel,Individual,Manual,Second Owner,19.3 kmpl,1248 CC,73.9 bhp,190Nm@ 2000rpm,5.0,841000
 Ford Figo 1.2P Sports Edition MT,2017,620000,50000,Petrol,Individual,Manual,First Owner,18.12 kmpl,1196 CC,86.8 bhp,112Nm@ 4000rpm,5.0,819000
-Hyundai Santro Xing GL Plus LPG,2015,300000,85000,LPG,Individual,Manual,First Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
+Hyundai Santro Xing GL Plus CNG,2015,300000,85000,CNG,Individual,Manual,First Owner,13.45 km/kg,1086 CC,62.1 bhp,96.1Nm@ 3000rpm,5.0,635490
 Maruti Eeco 7 Seater Standard BSIV,2016,370000,58000,Petrol,Individual,Manual,Second Owner,15.37 kmpl,1196 CC,73 bhp,101Nm@ 3000rpm,7.0,518500
 Mahindra Thar 4X4,2013,770000,85000,Diesel,Individual,Manual,First Owner,16.55 kmpl,2498 CC,105 bhp,247Nm@ 1800-2000rpm,7.0,1415338
 Hyundai Xcent 1.2 Kappa S Option,2014,500000,65000,Petrol,Individual,Manual,First Owner,19.1 kmpl,1197 CC,81.86 bhp,113.75Nm@ 4000rpm,5.0,537000
@@ -7641,7 +7641,7 @@ Tata Tiago 1.05 Revotorq XZ,2018,540000,33000,Diesel,Individual,Manual,First Own
 Maruti Ertiga VXI,2012,560000,59000,Petrol,Individual,Manual,First Owner,16.02 kmpl,1373 CC,93.7 bhp,130Nm@ 4000rpm,7.0,1047000
 Volkswagen Vento Diesel Highline,2012,380000,200000,Diesel,Individual,Manual,First Owner,20.54 kmpl,1598 CC,103.6 bhp,250Nm@ 1500-2500rpm,5.0,1368200
 Ford Figo Petrol Titanium,2011,240000,80000,Petrol,Individual,Manual,Second Owner,15.6 kmpl,1196 CC,70 bhp,102Nm@ 4000rpm,5.0,819000
-Chevrolet Spark 1.0 LT LPG,2012,300000,70000,LPG,Individual,Manual,First Owner,13.2 km/kg,995 CC,60.2 bhp,90.3Nm@ 4200rpm,5.0,421906
+Chevrolet Spark 1.0 LT CNG,2012,300000,70000,CNG,Individual,Manual,First Owner,13.2 km/kg,995 CC,60.2 bhp,90.3Nm@ 4200rpm,5.0,421906
 Datsun RediGO S,2018,280000,50000,Petrol,Individual,Manual,First Owner,22.7 kmpl,799 CC,53.64 bhp,72Nm@ 4386rpm,5.0,450000
 Maruti Ritz VDi,2011,350000,118000,Diesel,Individual,Manual,Second Owner,21.1 kmpl,1248 CC,73.9 bhp,113Nm@ 4500rpm,5.0,658205
 Tata Indica Vista TDI LS,2014,110000,250000,Diesel,Individual,Manual,Second Owner,19.1 kmpl,1405 CC,70 bhp,135.4Nm@ 2500rpm,5.0,425600
@@ -7704,16 +7704,16 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Jeep Wrangler 2016-2019 3.6 4X4,2017,4100000,17000,Petrol,Individual,Automatic,First Owner,9.5 kmpl,3604 CC,280 bhp,347Nm@ 4300rpm,5.0,5790000
 Mahindra Thar CRDe AC,2018,900000,12000,Diesel,Dealer,Manual,First Owner,16.55 kmpl,2498 CC,105 bhp,247Nm@ 1800-2000rpm,6.0,1415338
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 BMW 5 Series 520d Sport Line,2018,4000000,10000,Diesel,Dealer,Automatic,First Owner,22.48 kmpl,1995 CC,187.74 bhp,400Nm@ 1750-2500rpm,5.0,6910000
 Mercedes-Benz E-Class Exclusive E 200 BSIV,2019,5200000,17000,Petrol,Dealer,Automatic,First Owner,15.0 kmpl,1991 CC,194.4 bhp,300Nm@ 1600-4000rpm,5.0,8090000
 Land Rover Discovery Sport TD4 SE,2019,4500000,21000,Diesel,Dealer,Automatic,First Owner,12.83 kmpl,1999 CC,148.31 bhp,382nm@ 1750-2250rpm,7.0,
 Tata Hexa XE,2017,969999,26500,Diesel,Dealer,Manual,First Owner,17.6 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1400000
 Mercedes-Benz S-Class S 350 CDI,2017,6000000,37000,Diesel,Dealer,Automatic,First Owner,13.5 kmpl,2987 CC,254.79 bhp,620Nm@ 1600-2400rpm,5.0,27854478
-Hyundai Grand i10 1.2 Kappa Magna AT,2016,475000,45629,Petrol,Trustmark Dealer,Automatic,First Owner,18.9 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,5.0,497944
+Hyundai Grand i10 1.2 Kappa Magna AT,2016,475000,45629,Petrol,Dealer,Automatic,First Owner,18.9 kmpl,1197 CC,81.86 bhp,113.75nm@ 4000rpm,5.0,497944
 Hyundai Venue SX Plus Turbo DCT BSIV,2019,1125000,3500,Petrol,Dealer,Automatic,First Owner,18.15 kmpl,998 CC,118.35 bhp,171.6Nm@ 1500-4000rpm,5.0,1166800
 Honda CR-V 2.4L 4WD AT AVN,2017,1650000,52000,Petrol,Dealer,Automatic,First Owner,12.0 kmpl,2354 CC,187.4 bhp,226Nm@ 4400rpm,5.0,2110000
 Mahindra Bolero Power Plus SLE,2019,740000,35000,Diesel,Individual,Manual,First Owner,16.5 kmpl,1493 CC,70 bhp,195Nm@ 1400-2200rpm,7.0,914818
@@ -7749,8 +7749,8 @@ Isuzu D-Max V-Cross 4X4,2017,1250000,56800,Diesel,Individual,Manual,First Owner,
 Audi A4 2.0 TDI,2014,1500000,60000,Diesel,Individual,Automatic,First Owner,16.55 kmpl,1968 CC,147.51 bhp,320Nm@ 1750-2500rpm,5.0,4667000
 Toyota Innova Crysta 2.5 VX BS IV,2011,800000,60000,Diesel,Individual,Manual,First Owner,12.8 kmpl,2494 CC,102 bhp,20.4@ 1400-3400(kgm@ rpm),7.0,1673245
 Toyota Fortuner 4x2 Manual,2014,1380000,150000,Diesel,Individual,Manual,First Owner,13.0 kmpl,2982 CC,168.5 bhp,343Nm@ 1400-3400rpm,7.0,3779000
-Maruti Celerio VXI AT,2014,325000,65204,Petrol,Trustmark Dealer,Automatic,First Owner,23.1 kmpl,998 CC,67.04 bhp,90Nm@ 3500rpm,5.0,578000
-Hyundai Venue SX Plus Dual Tone Turbo DCT,2019,1150000,2286,Petrol,Trustmark Dealer,Automatic,First Owner,18.15 kmpl,998 CC,118.35 bhp,171.6Nm@ 1500-4000rpm,5.0,1166800
+Maruti Celerio VXI AT,2014,325000,65204,Petrol,Dealer,Automatic,First Owner,23.1 kmpl,998 CC,67.04 bhp,90Nm@ 3500rpm,5.0,578000
+Hyundai Venue SX Plus Dual Tone Turbo DCT,2019,1150000,2286,Petrol,Dealer,Automatic,First Owner,18.15 kmpl,998 CC,118.35 bhp,171.6Nm@ 1500-4000rpm,5.0,1166800
 Maruti Swift AMT ZXI,2018,655000,15732,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Mahindra Thar DI 4X4,2019,890000,13000,Diesel,Dealer,Manual,First Owner,18.06 kmpl,2523 CC,63 bhp,182.5Nm@ 1500-1800rpm,7.0,1415338
 Maruti Ignis 1.2 Zeta BSIV,2018,525000,33000,Petrol,Dealer,Manual,First Owner,20.89 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,730898
@@ -7862,18 +7862,18 @@ Lexus ES 300h,2019,5150000,20000,Petrol,Dealer,Automatic,First Owner,22.37 kmpl,
 Jaguar XF 2.0 Diesel Portfolio,2017,3200000,45000,Diesel,Dealer,Automatic,First Owner,19.33 kmpl,1999 CC,177 bhp,430Nm@ 1750-2500rpm,5.0,5566075
 Tata Safari Storme EX,2015,503000,110000,Diesel,Individual,Manual,First Owner,14.1 kmpl,2179 CC,147.94 bhp,320Nm@ 1500-3000rpm,7.0,1099369
 Volvo XC40 D4 Inscription BSIV,2019,3800000,20000,Diesel,Individual,Automatic,First Owner,18.0 kmpl,1969 CC,190 bhp,400Nm,5.0,3990000
-Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Trustmark Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
-Maruti Wagon R LXI,2013,225000,58343,Petrol,Trustmark Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
+Toyota Camry 2.5 Hybrid,2016,2000000,68089,Petrol,Dealer,Automatic,First Owner,19.16 kmpl,2494 CC,157.7 bhp,213Nm@ 4500rpm,5.0,4059000
+Maruti Wagon R LXI,2013,225000,58343,Petrol,Dealer,Manual,First Owner,21.79 kmpl,998 CC,67.05 bhp,90Nm@ 3500rpm,5.0,600000
 Maruti Baleno Alpha 1.3,2018,740000,38817,Diesel,Dealer,Manual,First Owner,27.39 kmpl,1248 CC,74 bhp,190Nm@ 2000rpm,5.0,910000
-Honda Jazz VX,2016,550000,56494,Petrol,Trustmark Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
-Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Trustmark Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
-Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Trustmark Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
-Toyota Etios VX,2017,625000,25538,Petrol,Trustmark Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
+Honda Jazz VX,2016,550000,56494,Petrol,Dealer,Manual,First Owner,18.2 kmpl,1199 CC,88.7 bhp,110Nm@ 4800rpm,5.0,979337
+Toyota Innova 2.5 VX (Diesel) 7 Seater,2013,750000,79328,Diesel,Dealer,Manual,Second Owner,12.99 kmpl,2494 CC,100.6 bhp,200Nm@ 1200-3600rpm,7.0,1673245
+Maruti Swift AMT VVT VXI,2019,650000,5621,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
+Toyota Etios VX,2017,625000,25538,Petrol,Dealer,Manual,First Owner,16.78 kmpl,1496 CC,88.73 bhp,132Nm@ 3000rpm,5.0,643000
 Maruti Swift AMT ZXI,2018,600000,69779,Petrol,Dealer,Automatic,First Owner,22.0 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0,841000
 Hyundai Grand i10 1.2 CRDi Sportz,2017,450000,56290,Diesel,Dealer,Manual,First Owner,24.0 kmpl,1186 CC,73.97 bhp,190.24nm@ 1750-2250rpm,5.0,497944
 BMW X4 M Sport X xDrive20d,2019,5400000,7500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
 BMW X4 M Sport X xDrive20d,2019,5500000,8500,Diesel,Dealer,Automatic,First Owner,16.78 kmpl,1995 CC,190 bhp,400Nm@ 1750-2500rpm,5.0,6890000
-Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Trustmark Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
+Honda Amaze V CVT Petrol BSIV,2019,779000,7032,Petrol,Dealer,Automatic,First Owner,19.0 kmpl,1199 CC,88.76 bhp,110Nm@ 4800rpm,5.0,999000
 Skoda Rapid 1.6 MPI AT Elegance,2016,645000,11000,Petrol,Dealer,Automatic,First Owner,14.3 kmpl,1598 CC,103.5 bhp,153Nm@ 3800rpm,5.0,1329000
 Volvo V40 D3 R-Design,2018,2475000,2000,Diesel,Dealer,Automatic,First Owner,16.8 kmpl,1984 CC,150 bhp,350Nm@ 1500-2750rpm,5.0,2549000
 Hyundai Verna VTVT 1.6 AT SX Option,2017,990000,20000,Petrol,Individual,Automatic,First Owner,17.0 kmpl,1591 CC,121.3 bhp,151Nm@ 4850rpm,5.0,1519700
